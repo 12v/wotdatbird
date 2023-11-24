@@ -15,5 +15,6 @@
     ],
     "theme_color": "#011480",
     "background_color": "#011480",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url": "https://wotdatbird.com"
 }
